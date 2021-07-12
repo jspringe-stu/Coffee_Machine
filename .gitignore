@@ -1,0 +1,57 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Coffee Machine/task/out/test/classes/
+/Topics/Instance methods/Car/out/
+/Topics/Instance methods/Car/out/production/classes/
+/Topics/Instance methods/Circle/out/
+/Topics/Instance methods/Circle/out/production/classes/
+/Topics/Instance methods/Complex numbers/out/
+/Topics/Instance methods/Complex numbers/out/production/classes/
+/Topics/Instance methods/Counter/out/
+/Topics/Instance methods/Counter/out/production/classes/
+/Topics/Instance methods/In a box/out/
+/Topics/Instance methods/In a box/out/production/classes/
+/Topics/Instance methods/Patient needs a doctor/out/
+/Topics/Instance methods/Patient needs a doctor/out/production/classes/
+/Topics/Instance methods/Theory/out/
+/Topics/Instance methods/Theory/out/production/classes/
+/Topics/Iterating over arrays/Cyclically shifting elements/out/
+/Topics/Iterating over arrays/Cyclically shifting elements/out/production/classes/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/production/classes/
+/Topics/Iterating over arrays/The longest ascending sequence/out/
+/Topics/Iterating over arrays/The longest ascending sequence/out/production/classes/
+/Topics/Iterating over arrays/The minimum value of an array/out/
+/Topics/Iterating over arrays/The minimum value of an array/out/production/classes/
+/Topics/Iterating over arrays/The sum of array elements/out/
+/Topics/Iterating over arrays/The sum of array elements/out/production/classes/
+/Topics/Iterating over arrays/Theory/out/
+/Topics/Iterating over arrays/Theory/out/production/classes/
+/Topics/Objects/Army/out/
+/Topics/Objects/Army/out/production/classes/
+/Topics/Objects/Change identities/out/
+/Topics/Objects/Change identities/out/production/classes/
+/Topics/Objects/Preparing full name/out/
+/Topics/Objects/Preparing full name/out/production/classes/
+/Topics/Objects/Theory/out/
+/Topics/Objects/Theory/out/production/classes/
+/Topics/Printing data/Digits from 0 to 9 in a single line/out/
+/Topics/Printing data/Digits from 0 to 9 in a single line/out/production/classes/
+/Topics/Printing data/First, second, third/out/
+/Topics/Printing data/First, second, third/out/production/classes/
+/Topics/Printing data/Printing a magic letter/out/
+/Topics/Printing data/Printing a magic letter/out/production/classes/
+/Topics/Printing data/Theory/out/
+/Topics/Printing data/Theory/out/production/classes/
+/Topics/Printing data/We need to learn Java/out/
+/Topics/Printing data/We need to learn Java/out/production/classes/
+/Topics/Static members/Project constants and methods/out/
+/Topics/Static members/Project constants and methods/out/production/classes/
+/Topics/Static members/Theory/out/
+/Topics/Static members/Theory/out/production/classes/
+/Topics/Static members/Time constants/out/
+/Topics/Static members/Time constants/out/production/classes/
+/Topics/Static members/Too many cats/out/
+/Topics/Static members/Too many cats/out/production/classes/
