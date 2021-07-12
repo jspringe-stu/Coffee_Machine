@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class CoffeeMachine {
     public static void main(String[] args) {
-
+        // one, two, three, testing, testing
         Scanner scanner = new Scanner(System.in);
 
         int howManyCoffeeYouWant = 0;
